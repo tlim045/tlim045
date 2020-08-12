@@ -1,3 +1,5 @@
+![Cat typing](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
 ### Hi there 👋
 
 <!--

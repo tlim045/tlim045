@@ -1,5 +1,6 @@
+<p align="center">
 ![Cat typing](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-
+</p>
 ### Hi there 👋
 
 <!--

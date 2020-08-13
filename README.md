@@ -3,16 +3,14 @@
 
 ### Hi there 👋
 
-<!--
-**tlim045/tlim045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Year 3 Computer Science and Economics student from Nanyang Technological University, Singapore! 
 
-- 🌱 I’m currently learning Natural Language Processing and application development.
-- 💬 Ask me about anything!
+- 🤔 My interests are: Data science, Software engineering, Public and Financial economics.
+- 💬 Ask me about anything, I am happy to help!
+- 📫 Please feel free to contact me via: tlim045@e.ntu.edu.sg
 
--->
 
-I am a year 3 Computer Science and Economics student from Nanyang Technological University, Singapore! 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlim045&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ### To know a little more about me...
 - 👥 LinkedIn [/tammylimleexin](https://www.linkedin.com/in/tammy-lim-lee-xin/)
-

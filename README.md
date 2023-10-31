@@ -3,12 +3,7 @@
 
 ### Hi there 👋
 
-I am a Year 3 Computer Science and Economics student from Nanyang Technological University, Singapore! 
-
-- 🤔 My interests are: Data science, Software engineering, Public and Financial economics.
-- 💬 Ask me about anything, I am happy to help!
-- 📫 Please feel free to contact me via: tlim045@e.ntu.edu.sg
-
+I am a Year 3 Computer Science and Economics student from Nanyang Technological University, Singapore!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlim045&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
